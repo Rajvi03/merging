@@ -1,0 +1,202 @@
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.exe
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.deps.json
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.runtimeconfig.json
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.runtimeconfig.dev.json
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.pdb
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.csproj.AssemblyReference.cache
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.AssemblyInfoInputs.cache
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.AssemblyInfo.cs
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.csproj.CoreCompileInputs.cache
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\staticwebassets\ToyCompanyAPI.StaticWebAssets.Manifest.cache
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\staticwebassets\ToyCompanyAPI.StaticWebAssets.xml
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ToyCompanyAPI.styles.css
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.csproj.CopyComplete
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.dll
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.pdb
+C:\Users\ankit.rudani\Desktop\Dotnet\Day14\toycompany\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.genruntimeconfig.cache
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.exe
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.deps.json
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.runtimeconfig.json
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.runtimeconfig.dev.json
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.pdb
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.csproj.AssemblyReference.cache
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.AssemblyInfoInputs.cache
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.AssemblyInfo.cs
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.csproj.CoreCompileInputs.cache
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\staticwebassets\ToyCompanyAPI.StaticWebAssets.Manifest.cache
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\staticwebassets\ToyCompanyAPI.StaticWebAssets.xml
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ToyCompanyAPI.styles.css
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.RazorTargetAssemblyInfo.cache
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.csproj.CopyComplete
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.pdb
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.genruntimeconfig.cache
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Radix Training\2435-Ankit.R-Feb22\DotnetCore\Day14\Assignments\Assignment1\Source\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.exe
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.deps.json
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.runtimeconfig.json
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.runtimeconfig.dev.json
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\ToyCompanyAPI.pdb
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.csproj.AssemblyReference.cache
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.AssemblyInfoInputs.cache
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.AssemblyInfo.cs
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.csproj.CoreCompileInputs.cache
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\staticwebassets\ToyCompanyAPI.StaticWebAssets.Manifest.cache
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\staticwebassets\ToyCompanyAPI.StaticWebAssets.xml
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ToyCompanyAPI.styles.css
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.RazorTargetAssemblyInfo.cache
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.csproj.CopyComplete
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.dll
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.pdb
+D:\DotNet\ToyCompanyAPI\ToyCompanyAPI\ToyCompanyAPI\obj\Debug\netcoreapp3.1\ToyCompanyAPI.genruntimeconfig.cache

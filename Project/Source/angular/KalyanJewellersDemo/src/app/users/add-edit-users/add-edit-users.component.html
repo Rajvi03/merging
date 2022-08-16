@@ -1,0 +1,42 @@
+<div class="cotainer">
+    <h1 class="text-primary">
+        Add Student
+      </h1>
+      <form>
+        <div class="col-4">
+          <div class="card p-4">
+            <form [formGroup]="usersDetails">
+              <div>
+                <label for="id" class="form-label">UsersId</label>
+                <input type="number" class="form-control" formControlName="UsersId" />
+              </div>
+              <div>
+                <label for="name" class="form-label">FirstName</label>
+                <input type="text" class="form-control" formControlName="FirstName" />
+              </div>
+              <div>
+                <label for="Standard" class="form-label">LastName</label>
+                <input type="text" class="form-control" formControlName="LastName" />
+              </div>
+              <div>
+                <label for="contact" class="form-label">Email No</label>
+                <input type="text" class="form-control" formControlName="Email" />
+              </div>
+              <div>
+                <label for="contact" class="form-label">Mobile No</label>
+                <input type="number" class="form-control" formControlName="MobileNo" />
+              </div>
+              <div>
+                <label for="contact" class="form-label">Password</label>
+                <input type="Password" class="form-control" formControlName="Password" />
+              </div>
+              
+            </form>
+            <div>
+              <button class="btn btn-success mt-2" (click)="addUserFromService()">Submit</button>
+            </div>
+    
+          </div>
+        </div>
+      </form>
+</div>

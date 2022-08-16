@@ -1,0 +1,22 @@
+<!-- <app-users></app-users> -->
+
+
+<div class="container">
+    <h1 class="d-flex justify-content-center">Kalyan Jewellers Admin</h1>
+    <nav class="navbar navbar-light bg-light shadow-sm">
+      <div>
+          <!-- <a [routerLink]="['/login']" class="btn btn-success" *ngIf="login();else show" (click)="login()">Login</a>
+            <ng-template #show>
+                <a [routerLink]="['/login']" class="btn btn-danger " (click)="logout()">Logout</a>
+            </ng-template> -->
+            <a [routerLink]="['Users/allUsers']" class="btn btn-primary me-3">Users</a>
+            <a [routerLink]="['Products']" class="btn btn-primary me-3">Products</a>
+        </div>
+    </nav>
+  
+  
+    <div class="mt-2">
+      <router-outlet></router-outlet>
+    </div>
+  
+  </div>

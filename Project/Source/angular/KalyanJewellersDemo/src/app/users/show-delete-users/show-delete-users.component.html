@@ -1,0 +1,35 @@
+<div class="container">
+    <h1>Users List</h1>
+    <div>
+        <table class="table table-striped">
+            <caption></caption>
+            <thead>
+                <tr>
+                    <th>UserId</th>
+                    <th>FirstName</th>
+                    <th>LastName</th>
+                    <th>UserEmail</th>
+                    <th>Phone no</th>
+                    <th>Password</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let data of UserList">
+                    <td>{{data.UsersId}}</td>
+                    <td>{{data.FirstName}} </td>
+                    <td>{{data.LastName}} </td>
+                    <td>{{data.Email}} </td>
+                    <td>{{data.MobileNo}}</td>
+                    <td>{{data.Password}} </td>
+                    <td>
+                        <button class="btn btn-primary me-2" [routerLink]="['/SignUp/addUsers']">Add</button>
+                        <button type="button" class="btn btn-warning me-2">Edit</button>
+                        <button type="button" class="btn btn-danger me-2">Delete</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+       
+        
+</div>
